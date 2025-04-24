@@ -1,2 +1,2 @@
 # cognitive-ui-fe
-Frontend React per test cognitivi
+FE-React for cognitive test
